@@ -12,12 +12,12 @@ head, main, body , p, nav, footer, header, h1, h2, a{
 }
 
 main{
-	font-family: Tahoma, sans-serif;
+	font-family: 'Encode Sans SC', sans-serif;
 	color: #00ff00;
 	
 }
 
 /*background*/
 main{
-	background-color: black;
+	background-color: #000000;
 }
