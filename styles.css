@@ -11,9 +11,12 @@ head, main, body , p, nav, footer, header, h1, h2, a{
 	border{0}
 }
 
-main{
+body{
 	font-family: 'Encode Sans SC', sans-serif;
 	color: #00ff00;
+	padding: 0;
+	margin: 0;
+	border: 0;
 	
 }
 
@@ -26,4 +29,9 @@ body{
 header{
 	text-align: center;
 	font-size: large;
+}
+
+/*img*/
+img{
+	width: 100%;
 }
