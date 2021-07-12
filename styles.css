@@ -46,10 +46,10 @@ ul{
 li{
 	display: table-cell;
 	text-align: center;
+	list-style-type: circle;
+	color: #00ff00;
 }
 
 .navlink{
 	text-decoration: none;
-	list-style-type: circle;
-	color: #00ff00;
 }
