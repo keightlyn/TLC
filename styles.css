@@ -64,13 +64,13 @@ li{
 	font-family: 'Roboto', sans-serif;
 }
 
+.navlink:visited{
+	color: #ffffff;
+}
+
 .navlink:hover{
 	font-style: italic;
 	font-weight: bold;
-}
-
-.navlink:visited{
-	color: #ffffff;
 }
 
 /*main elements*/
