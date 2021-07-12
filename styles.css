@@ -38,6 +38,8 @@ img{
 
 /*nav section*/
 ul{
+	list-style-type: circle;
+	color: #00ff00;
 	display: table;
 	width: 100%;
 	font-size: 100%;
@@ -48,16 +50,6 @@ li{
 	text-align: center;
 }
 
-ul li::before{
-	content: "\2022";
-	color: #00ff00; /* Change the color */
-        font-weight: bold; /* If you want it to be bold */
-        display: inline-block; /* Needed to add space between the bullet and the text */
-        width: 1em; /* Also needed for space (tweak if needed) */
-        margin-left: -1em; /* Also needed for space (tweak if needed) */
-}
-
 .navlink{
 	text-decoration: none;
-	color: #00ff00;
 }
