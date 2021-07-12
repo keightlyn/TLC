@@ -57,7 +57,7 @@ li{
 	padding-bottom: 10px;
 }
 
-.navlink{
+.navlink:link{
 	text-decoration: none;
 	color: #00ff00;
 	font-size: large;
