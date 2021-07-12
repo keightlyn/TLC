@@ -33,4 +33,10 @@ img{
 	height: 50%;
 	padding-right: 0;
 	padding-left: 0;
+	display: block;
+}
+
+/*nav section*/
+nav{
+	display: inline-block;
 }
