@@ -38,8 +38,6 @@ img{
 
 /*nav section*/
 ul{
-	list-style-type: circle;
-	color: #00ff00;
 	display: table;
 	width: 100%;
 	font-size: 100%;
@@ -52,4 +50,6 @@ li{
 
 .navlink{
 	text-decoration: none;
+	list-style-type: circle;
+	color: #00ff00;
 }
