@@ -40,14 +40,14 @@ img{
 ul{
 	display: table;
 	width: 100%;
-	font-size: 100%;
 }
 
 li{
 	display: table-cell;
 	text-align: center;
-	list-style-type: circle;
 	color: #00ff00;
+	font-size: large;
+	font-family: 'Roboto', sans-serif;
 }
 
 .navlink{
