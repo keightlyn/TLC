@@ -40,6 +40,7 @@ img{
 ul{
 	display: table;
 	width: 100%;
+	border-bottom: solid #00ff00 2px;
 }
 
 li{
