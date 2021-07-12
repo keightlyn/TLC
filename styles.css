@@ -38,7 +38,10 @@ img{
 
 /*nav section*/
 ul{
-	display: inline;
 	text-align: center;
 	font-size: 100%;
+}
+
+li{
+	display:inline;
 }
