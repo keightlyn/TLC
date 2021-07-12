@@ -38,13 +38,15 @@ img{
 
 /*nav section*/
 ul{
-	text-align: center;
+	display: table;
+	width: 100%;
 	font-size: 100%;
 }
 
 li{
-	display: inline-block;
+	display: table-cell;
 	list-style-type: circle, #00ff00;
+	text-align: center;
 }
 
 .navlink{
