@@ -46,11 +46,12 @@ ul{
 li{
 	display: table-cell;
 	text-align: center;
-	color: #00ff00;
-	font-size: large;
-	font-family: 'Roboto', sans-serif;
+	padding-bottom: 10px;
 }
 
 .navlink{
 	text-decoration: none;
+	color: #00ff00;
+	font-size: large;
+	font-family: 'Roboto', sans-serif;
 }
