@@ -44,9 +44,7 @@ ul{
 
 li{
 	display: inline-block;
-	padding-left: 10%;
-	list-style-type: circle;
-	color: #00ff00;
+	list-style-type: circle, #00ff00;
 }
 
 .navlink{
