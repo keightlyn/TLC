@@ -38,12 +38,14 @@ img{
 
 /*nav section*/
 ul{
+	display: table;
 	width: 100%;
 	font-size: 100%;
 }
 
 li{
-	display: inline-block;
+	display: table-cell;
+	text-align: center;
 }
 
 ul li::before{
