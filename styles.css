@@ -100,6 +100,12 @@ h3{
 	word-spacing: 3em;
 	
 }
+
+ul.services { list-style: none; } /* Remove default bullets */
+
+li.services::before {
+    content: "\2022"; /* Unicode bullet symbol */
+    color: blue;  
 /*before and after pics*/
 .beforepic{
 	float: left;
