@@ -82,3 +82,12 @@ p{
 .t2{
 	text-align: right;
 }
+
+/*before and after pics*/
+.beforepic{
+	float: left;
+}
+
+.afterpic{
+	float: right;
+}
