@@ -44,13 +44,13 @@ h2{
 }
 
 /*nav section*/
-ul{
+.navlist{
 	display: table;
 	width: 100%;
 	border-bottom: solid #00ff00 2px;
 }
 
-li{
+.navitems{
 	display: table-cell;
 	text-align: center;
 	padding-bottom: 10px;
