@@ -96,8 +96,7 @@ h3{
 	color: #ffffff;
 	font-family: 'Roboto Mono', monospace;
 	font-size: x-large;
-	display: inline;
-	word-spacing: 3em;
+	display: table;
 	
 }
 
