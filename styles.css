@@ -64,10 +64,6 @@ li{
 	font-family: 'Roboto', sans-serif;
 }
 
-.navlink:visited{
-	color: #ffffff;
-}
-
 .navlink:hover{
 	font-style: italic;
 	font-weight: bold;
@@ -76,4 +72,6 @@ li{
 /*main elements*/
 p{
 	color: #ffffff;
+	font-family: 'Roboto', sans-serif;
+	font-size: large;
 }
