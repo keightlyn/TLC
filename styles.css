@@ -60,7 +60,7 @@ li{
 	text-decoration: none;
 	color: #00ff00;
 	font-size: large;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Roboto Mono', monospace;
 }
 
 .navlink:hover{
@@ -70,7 +70,7 @@ li{
 
 /*main elements*/
 p{
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Roboto Mono', monospace;
 	font-size: large;
 	text-align: center;
 	color: #ffffff;
