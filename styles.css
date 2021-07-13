@@ -75,16 +75,6 @@ p{
 	color: #ffffff;
 }
 
-.t1{
-	text-align: left;
-	margin-left: 10px;
-}
-
-.t2{
-	text-align: right;
-	margin-right: 10px;
-}
-
 h3{
 	font-family: 'Roboto Mono', monospace;
 	font-size: xx-large;
@@ -100,18 +90,10 @@ h3{
 	
 }
 
-ul.services { list-style: none; } /* Remove default bullets */
-
+ul.services { 
+	list-style: none; 
+	display: inline;
+}
 li.services::before {
-    content: "\2022"; /* Unicode bullet symbol */
-    color: blue;  
-/*before and after pics*/
-.beforepic{
-	float: left;
-	margin-left: 5px;
-}
-
-.afterpic{
-	float: right;
-	margin-right: 5px;
-}
+    content: "\2022";
+    color: #00ff00;  
