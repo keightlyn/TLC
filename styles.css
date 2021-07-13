@@ -87,8 +87,9 @@ p{
 
 h3{
 	font-family: 'Roboto Mono', monospace;
-	font-size: x-large;
+	font-size: xx-large;
 	color: #ffffff;
+	text-align: center;
 }
 
 .services{
