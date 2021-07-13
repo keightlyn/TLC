@@ -85,6 +85,18 @@ p{
 	padding-right: 10px;
 }
 
+h3{
+	font-family: 'Roboto Mono', monospace;
+	font-size: x-large;
+	color: #ffffff;
+}
+
+.services{
+	color: #ffffff;
+	font-family: 'Roboto Mono', monospace;
+	font-size: x-large;
+	
+}
 /*before and after pics*/
 .beforepic{
 	float: left;
