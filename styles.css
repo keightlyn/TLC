@@ -12,7 +12,7 @@ head, main, body , p, nav, footer, header, h1, h2, a{
 }
 
 body{
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Roboto Mono', monospace;
 	padding: 0;
 	margin: 0;
 	border: 0;
@@ -71,8 +71,8 @@ li{
 /*main elements*/
 p{
 	font-family: 'Roboto Mono', monospace;
-	font-size: large;
-	text-align: center;
+	font-size: x-large;
+	text-align: left;
 	color: #ffffff;
 }
 
