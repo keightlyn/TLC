@@ -100,11 +100,13 @@ li.services::before {
 }
 
 /*before and after table*/
-table{
-	width: 100%;
-}
 
 th{
 	color: #ffffff;
 	font-size: x-large;
+	text-align: center;
+}
+
+tr{
+	width: 100%;
 }
