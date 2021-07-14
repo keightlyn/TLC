@@ -92,11 +92,11 @@ h3{
 
 ul.services { 
 	list-style: none; 
-	display: inline;
 }
 li.services::before {
-    content: "\2022";
-    color: #00ff00; 
+	content: "\2022";
+	color: #00ff00; 
+	display: inline;
 }
 
 /*before and after table*/
