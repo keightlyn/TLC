@@ -96,6 +96,9 @@ ul.services {
 li.services::before {
 	content: "\2022";
 	color: #00ff00; 
+}
+
+li.services{
 	display: inline;
 }
 
@@ -109,4 +112,8 @@ th{
 
 tr{
 	width: 100%;
+}
+
+td{
+	align: center;
 }
