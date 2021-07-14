@@ -103,6 +103,11 @@ li.services{
 }
 
 /*before and after table*/
+table{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
 
 th{
 	color: #ffffff;
@@ -110,9 +115,6 @@ th{
 	text-align: center;
 }
 
-tr{
-	width: 100%;
-}
 
 td{
 	align: center;
